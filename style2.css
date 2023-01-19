@@ -1,0 +1,22 @@
+body{
+	background-color: #99ccff;
+	font: 16px inherit;, margin:initial;
+}
+
+.container {
+	width: 750px;
+	margin: auto;
+	background-color: transparent;
+}
+
+.header {
+	padding: 40px;
+}
+
+.banner {
+	width: 250;
+	height: 350px;
+	background-image: url(news.jpg);
+	background-position: 0px ,450px;
+	border-top: 5px solid #99ccff;
+	border-bottom: 5px solid #99ccff;;

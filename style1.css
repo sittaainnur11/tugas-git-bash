@@ -1,0 +1,46 @@
+body{
+	background-color: #99ccff;
+	font: 16px inherit;, margin:initial;
+}
+
+.container {
+	width: 750px;
+	margin: auto;
+	background-color: transparent;
+	
+}
+
+.header {
+	padding: 40px;
+	color: black;
+}
+
+.header ul {
+	float: initial;
+
+}
+.header ul li {
+	display: inline-block;
+}
+.header ul li a {
+	padding:25px 20px;
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+}
+.header ul li a:hover {
+	background-color: beige;
+	color: black;
+}
+.banner {
+	width: 400;
+	height: 320px;
+	background-image: url(pict.jpg);
+	background-position: 0px ,500px;
+	border-top: 5px solid #99ccff;
+	border-bottom: 5px solid #99ccff;
+
+
+
+
+

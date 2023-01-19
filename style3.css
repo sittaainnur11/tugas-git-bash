@@ -1,0 +1,27 @@
+body{
+	background-color: #99ccff;
+	font: 16px inherit;, margin:auto;
+}
+h1{
+	color: black;
+	margin: auto;
+	padding: 0;
+	text-align: justify-all;
+	font-family: calibri;
+	position: static;
+	top: 50%;
+	left: 50%;
+}
+
+.container {
+	width: 750px;
+	margin: auto;
+	background-color: transparent;
+}
+
+.header {
+	padding: 40px;
+}
+;
+	
+
